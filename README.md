@@ -1,1 +1,1 @@
-# Assignments-for-Learning-how-to-use-Python
+# Python
